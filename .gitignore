@@ -1,0 +1,10 @@
+/base*
+/iso.pacman.conf
+/x86_64
+/build_date
+/iso
+/*.EFI
+/efiboot.img
+/grub-embed.cfg
+
+/build/*
