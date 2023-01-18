@@ -112,7 +112,7 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
+virtualbox-guest-utils
 vpnc
 wireless-regdb
 wireless_tools
@@ -157,4 +157,7 @@ calamares
 os-prober
 
 #Theme
-aritim-dark-kde-git
+adapta-kde-git
+adapta-gtk-theme
+papirus-icon-theme
+sddm-sugar-candy-git
